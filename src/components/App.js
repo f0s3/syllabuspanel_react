@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from '../logo.svg';
 import '../App.css';
+import Header from './Header.js';
 
 class App extends Component {
   render() {
@@ -11,13 +12,5 @@ class App extends Component {
     );
   }
 }
-
-class Header extends Component {
-  render() {
-    return (
-      <p>Header</p>
-  )}
-}
-
 
 export default App;
