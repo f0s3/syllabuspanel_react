@@ -1,5 +1,9 @@
 .header {
 	background-color: skyblue;
-	font-size: 24pt;
+	font-size: 16pt;
 	font-family: Monospace;
+	margin: 0;
+	padding: 12px 0 12px 0;
+	text-align: center;
+	color: white;
 }
