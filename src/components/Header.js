@@ -4,6 +4,10 @@ import '../styles/Header.css';
 export default class Header extends Component {
   render() {
     return (
-      <p className="header">Syllabus Admin Panel</p>
+      <div className="header">
+      <p>Syllabus Admin Panel</p>
+      <p>You are logged in as:</p>
+      </div>
+
   )}
 }

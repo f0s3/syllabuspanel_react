@@ -1,17 +1,16 @@
 .header {
 	background-color: skyblue;
+	display: flex;
+}
+.header > p {
 	font-size: 16pt;
 	font-family: Monospace;
 	margin: 0;
 	padding: 12px 0 12px 0;
 	text-align: center;
 	color: white;
-
 }
-.panels-bgrnd {
-	background-color: grey;
-}
-h1 {
-	font-size: 20px;
-	font-family: monospace;
+.header > div {
+	flex-direction:row;
+	text-align: right;
 }
