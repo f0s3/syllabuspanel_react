@@ -12,6 +12,7 @@
 }
 
 #account-label {
+	font-size: large;
 	flex-direction:row;
 	margin-left: auto;
 }

@@ -1,0 +1,10 @@
+.header-2-label {
+	font-size: 20pt;
+	padding-bottom: 15px;
+}
+
+input.form-control {
+	display: inline;
+    width: inherit;
+    padding: 0;
+}
