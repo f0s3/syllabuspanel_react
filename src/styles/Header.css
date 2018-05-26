@@ -6,4 +6,12 @@
 	padding: 12px 0 12px 0;
 	text-align: center;
 	color: white;
+
+}
+.panels-bgrnd {
+	background-color: grey;
+}
+h1 {
+	font-size: 20px;
+	font-family: monospace;
 }

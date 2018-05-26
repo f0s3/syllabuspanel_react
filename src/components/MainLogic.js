@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import logo from '../logo.svg';
 import '../styles/MainLogic.css';
+import EditGroup from './EditGroup';
+import AddOrRemoveGroup from './AddOrRemoveGroup';
 
 class MainLogic extends Component {
   render() {
@@ -13,4 +15,4 @@ class MainLogic extends Component {
   }
 }
 
-export default App;
+export default MainLogic;

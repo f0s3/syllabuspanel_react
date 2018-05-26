@@ -6,10 +6,10 @@ class EditGroup extends Component {
   render() {
     return (
       <div className="EditGroup">
-      
+
       </div>
     );
   }
 }
 
-export default App;
+export default EditGroup;

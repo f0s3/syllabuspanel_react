@@ -4,6 +4,6 @@ import '../styles/Header.css';
 export default class Header extends Component {
   render() {
     return (
-      <p className="header">Header</p>
+      <p className="header">Syllabus Admin Panel</p>
   )}
 }

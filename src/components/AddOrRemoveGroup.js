@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import logo from '../logo.svg';
 import '../styles/AddOrRemoveGroup.css';
+import AddGroup from './AddGroup';
+import RemoveGroup from './RemoveGroup';
 
 class AddOrRemoveGroup extends Component {
   render() {
@@ -13,4 +15,4 @@ class AddOrRemoveGroup extends Component {
   }
 }
 
-export default App;
+export default AddOrRemoveGroup;

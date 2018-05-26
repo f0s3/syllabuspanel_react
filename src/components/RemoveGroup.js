@@ -11,4 +11,4 @@ class RemoveGroup extends Component {
   }
 }
 
-export default App;
+export default RemoveGroup;
