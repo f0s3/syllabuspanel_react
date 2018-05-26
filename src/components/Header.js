@@ -5,8 +5,8 @@ export default class Header extends Component {
   render() {
     return (
       <div className="header">
-      <p>Syllabus Admin Panel</p>
-      <p>You are logged in as:</p>
+	      <div>Syllabus Admin Panel</div>
+	      <div id="account-label">You are logged in as:</div>
       </div>
 
   )}

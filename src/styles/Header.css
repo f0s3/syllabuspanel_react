@@ -1,27 +1,18 @@
 .header {
 	background-color: skyblue;
+
 	display: flex;
 }
-.header > p {
-	font-size: 16pt;
-	font-family: Monospace;
-	margin: 0;
-	padding: 12px 0 12px 0;
-	text-align: center;
-	color: white;
-}
-.header > * {
-float: left;
-
-
-
-}
-
-
 
 .header > div {
+	font-size: 15pt;
+	font-family: Monospace;
+	margin: 0;
+	padding: 10px 0 10px 0;
+	color: white;
+}
+
+#account-label {
 	flex-direction:row;
-	align-items: flex-end;
-	margin-right: auto;
-	float: right;
+	margin-left: auto;
 }
