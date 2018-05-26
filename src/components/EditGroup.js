@@ -6,9 +6,9 @@ class EditGroup extends Component {
   render() {
     return (
       <div className="EditGroup">
-      	<div>Edit Group or subgroup info</div>
+      	<div className="header-2-label">Edit Group or subgroup info</div>
       	<div>
-      		<label>Enter group name</label><input type="text"/>
+      		<label>Enter group name</label><input type="text" class="form-control"/>
       	</div>
       </div>
     );
